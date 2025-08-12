@@ -1,4 +1,4 @@
-# 📝 To-Do List App
+<img width="475" height="205" alt="image" src="https://github.com/user-attachments/assets/dd0357be-19ad-4a19-bd30-e393db3e6117" /># 📝 To-Do List App
 
 A simple, responsive **To-Do List App** built with HTML, CSS, and JavaScript.  
 This app allows you to **add tasks**, **mark them as completed**, and **delete tasks** with a clean and user-friendly interface.  
@@ -18,9 +18,9 @@ This app allows you to **add tasks**, **mark them as completed**, and **delete t
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshorts/1.png" alt="To-Do App Initial" width="300">
-  <img src="screenshorts/2.png" alt="To-Do App with Tasks" width="300">
-  <img src="screenshorts/3.png" alt="To-Do App Completed" width="300">
+  <img src="ScreenShorts/1.png" alt="To-Do App Initial" width="300">
+  <img src="ScreenShorts/2.png" alt="To-Do App with Tasks" width="300">
+  <img src="ScreenShorts/3.png" alt="To-Do App Completed" width="300">
 </p>
 
 ---
@@ -39,6 +39,7 @@ This app allows you to **add tasks**, **mark them as completed**, and **delete t
 
 2.Navigate to the project folder:
    ```bash
-   cd To-Do-List-App
+   cd To-Do-List-App ```
 
 3.Open index.html in your browser.
+
